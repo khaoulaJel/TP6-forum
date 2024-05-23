@@ -5,6 +5,8 @@ This is a forum application developed by Jaafar Yeffou, Bousseta Yassir, and Kha
 ## Login and Sign Up Authentication
 
 ![Login](https://github.com/khaoulaJel/TP6-forum/assets/149967026/8ef9ee96-a0c8-4f42-a1a9-747412e93eb8)
+![signup](https://github.com/khaoulaJel/TP6-forum/assets/149967026/e7c5fbae-5831-41db-9ac5-d7d9aba2dd0e)
+
 
 Users can authenticate by logging in or signing up with their credentials.
 
