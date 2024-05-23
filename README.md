@@ -10,6 +10,8 @@ This is a forum application developed by Jaafar Yeffou, Bousseta Yassir, and Kha
 ![Search functionality to filter discussions](https://github.com/khaoulaJel/TP6-forum/tree/main/forum-tp6-jaafar-khaoula-yassir/src/assets/search.png)
 ![User Profile](https://github.com/khaoulaJel/TP6-forum/tree/main/forum-tp6-jaafar-khaoula-yassir/src/assets/userProfile.png)
 
+![image](https://github.com/khaoulaJel/TP6-forum/assets/149967026/8d700add-8c02-49fc-b0c5-bdfb3c6de79b)
+
 
 
 
